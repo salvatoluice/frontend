@@ -12,10 +12,9 @@ const About = () => {
 
   return (
     <>
-      <h2 className="head-text">I Know that <span>Good Development </span> <br />means  <span>Good Business</span></h2>
+      <h2 className="head-text">~~ About Me ~~ <br /><span>I'm a...</span></h2>
 
       <div className="app__profiles">
-        {/* {abouts.map((about, index) => ( */}
           <motion.div
             whileInView={{ opacity: 1 }}
             whileHover={{ scale: 1.1 }}

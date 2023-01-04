@@ -1,8 +1,7 @@
-import React, { useState, useEffect } from 'react';
+import React from 'react';
 import { motion } from 'framer-motion';
 
 import { AppWrap } from '../../wrapper';
-import { urlFor, client } from '../../client';
 import './skills.scss';
 import HTML from '../../assets/html.png'
 import css from '../../assets/css.png'
